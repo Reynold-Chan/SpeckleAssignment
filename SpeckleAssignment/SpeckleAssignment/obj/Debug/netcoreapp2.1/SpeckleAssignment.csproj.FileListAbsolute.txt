@@ -1,0 +1,12 @@
+C:\git\SpeckleAssignment\SpeckleAssignment\SpeckleAssignment\bin\Debug\netcoreapp2.1\SpeckleAssignment.deps.json
+C:\git\SpeckleAssignment\SpeckleAssignment\SpeckleAssignment\bin\Debug\netcoreapp2.1\SpeckleAssignment.runtimeconfig.json
+C:\git\SpeckleAssignment\SpeckleAssignment\SpeckleAssignment\bin\Debug\netcoreapp2.1\SpeckleAssignment.runtimeconfig.dev.json
+C:\git\SpeckleAssignment\SpeckleAssignment\SpeckleAssignment\bin\Debug\netcoreapp2.1\SpeckleAssignment.dll
+C:\git\SpeckleAssignment\SpeckleAssignment\SpeckleAssignment\bin\Debug\netcoreapp2.1\SpeckleAssignment.pdb
+C:\git\SpeckleAssignment\SpeckleAssignment\SpeckleAssignment\obj\Debug\netcoreapp2.1\SpeckleAssignment.csprojAssemblyReference.cache
+C:\git\SpeckleAssignment\SpeckleAssignment\SpeckleAssignment\obj\Debug\netcoreapp2.1\SpeckleAssignment.AssemblyInfoInputs.cache
+C:\git\SpeckleAssignment\SpeckleAssignment\SpeckleAssignment\obj\Debug\netcoreapp2.1\SpeckleAssignment.AssemblyInfo.cs
+C:\git\SpeckleAssignment\SpeckleAssignment\SpeckleAssignment\obj\Debug\netcoreapp2.1\SpeckleAssignment.csproj.CoreCompileInputs.cache
+C:\git\SpeckleAssignment\SpeckleAssignment\SpeckleAssignment\obj\Debug\netcoreapp2.1\SpeckleAssignment.dll
+C:\git\SpeckleAssignment\SpeckleAssignment\SpeckleAssignment\obj\Debug\netcoreapp2.1\SpeckleAssignment.pdb
+C:\git\SpeckleAssignment\SpeckleAssignment\SpeckleAssignment\obj\Debug\netcoreapp2.1\SpeckleAssignment.genruntimeconfig.cache
